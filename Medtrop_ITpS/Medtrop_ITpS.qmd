@@ -1,11 +1,11 @@
 ---
 format: html
-css: styles/custom.css
+css: https://raw.githubusercontent.com/InstitutoTodosPelaSaude/communication/main/Medtrop_ITpS/styles/custom.css
 editor: visual
 ---
 
 ::: header-image
-<img src="img/ITpS.jpeg" alt="Cabeçalho"/>
+<img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/ITpS.jpeg?raw=true" alt="Cabeçalho"/>
 :::
 
 ::: {style="text-align: center;"}
@@ -13,7 +13,7 @@ editor: visual
 
 <!-- Imagem dentro do texto, centralizada e com tamanho reduzido mantendo proporções -->
 
-![Imagem gerada por IA](img/IA.png){width="15cm"}
+![Imagem gerada por IA](https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/IA.png?raw=trueg){width="15cm"}
 :::
 
 :::: {style="text-align: justify;"}
@@ -37,6 +37,6 @@ Todos os monitoramentos estão disponíveis no [site do ITpS](https://www.itps.o
 Para mais informações, entre em contato: [comunicacao\@itps.org.br](mailto:comunicacao@itps.org.br)
 
 ::: footer-image
-<img src="img/Medtrop.jpg" alt="Rodapé"/>
+<img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/Medtrop.jpg?raw=true" alt="Rodapé"/>
 :::
 ::::
