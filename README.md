@@ -1,4 +1,4 @@
-# Projeto: Conversão de Documentos Word/Docs para HTML
+# Comunicação: Conversão de Documentos Word/Docs para HTML
 
 Este projeto foi criado para automatizar a conversão de textos em Word ou Google Docs para HTML usando R. Ele facilita a replicação de conteúdos em um formato web, mantendo a qualidade e a organização do conteúdo, especialmente para fins de publicação.
 
