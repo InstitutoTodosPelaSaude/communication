@@ -1,0 +1,42 @@
+---
+format: html
+css: styles/custom.css
+editor: visual
+---
+
+::: header-image
+<img src="img/ITpS.jpeg" alt="Cabeçalho"/>
+:::
+
+::: {style="text-align: center;"}
+## Instituto Todos pela Saúde e laboratórios parceiros realizam monitoramento em tempo oportuno de vírus e outros agentes causadores de doenças no Brasil
+
+<!-- Imagem dentro do texto, centralizada e com tamanho reduzido mantendo proporções -->
+
+![Imagem gerada por IA](img/IA.png){width="15cm"}
+:::
+
+:::: {style="text-align: justify;"}
+Monitorar infecções causadas por vírus e bactérias, em tempo oportuno, para informar com agilidade governos, entidades e a população, colaborando com a tomada de decisões de saúde pública. Esse é o objetivo dos monitoramentos realizados pelo Instituto Todos pela Saúde (ITpS) e por laboratórios parceiros desde dezembro de 2021, quando o Brasil sofreu uma indisponibilidade temporária de dados oficiais em meio à pandemia de covid-19. Até o primeiro semestre de 2024, o ITpS integrou e analisou mais de 5,4 milhões de resultados de exames e produziu 70 relatórios, sendo 32 sobre patógenos respiratórios, 10 sobre variantes do SARS-CoV-2 e outros 24 com foco na Ômicron, além de 4 sobre arboviroses.
+
+> “Os monitoramentos se tornaram uma referência quando se fala em vigilância em tempo oportuno. É uma das nossas contribuições para a saúde pública brasileira na preparação para enfrentar emergências sanitárias por patógenos emergentes e reemergentes”, diz Mariângela Simão, diretora-presidente do ITpS.
+
+Os laboratórios parceiros compartilham com o ITpS resultados de exames sempre de forma anônima, ou seja, sem qualquer elemento que possa identificar o paciente, como nome ou CPF. São fornecidas informações como número de casos positivos e negativos, sexo e idade da pessoa, data do exame e município onde foi feito. O ITpS consolida e analisa os dados e, depois, produz um relatório com gráficos informativos, apontando de forma clara e didática as tendências e alertando para a ocorrência de eventuais surtos. Na sequência, o relatório é divulgado para o Ministério da Saúde, secretarias de Saúde e outros órgãos públicos, a Organização Panamericana da Saúde (Opas), profissionais da saúde e outros especialistas, a imprensa e a população em geral, utilizando diferentes canais de comunicação.
+
+> “O aumento do percentual de positividade de exames para vírus e bactérias antecipa as tendências de surtos, fato que serve de alerta. Para isso, é fundamental que o monitoramento seja feito de maneira ágil, em tempo oportuno, caso contrário as informações chegam com atraso e viram história”, afirma o virologista Anderson Fernandes de Brito, pesquisador científico do ITpS e coordenador dos monitoramentos. “Quando não há rapidez, os dados, embora úteis, são incapazes de suscitar ações. É como se o alarme soasse tarde, com atraso.”
+
+Desde dezembro de 2021, os relatórios já foram citados mais de 9,5 mil vezes na imprensa brasileira, em portais, jornais e revistas, programas de TV e rádio. Também foram apresentados em dez eventos científicos nacionais e internacionais.
+
+Inicialmente, a parceria foi feita com os laboratórios Dasa, DB Molecular e HLAGyn para acompanhamento do coronavírus. Logo em seguida, em fevereiro de 2022, foram incluídos os vírus Influenza A e B e o Vírus Sincicial Respiratório (VSR), causador da bronquiolite. Ao longo de 2023, novos parceiros se somaram ao esforço: Sabin, Fleury, Hospital Israelita Albert Einstein (HIAE) e Hilab. O monitoramento também passou a incluir dados públicos do Ministério da Saúde, da Organização Mundial da Saúde (OMS) e de entidades como Gisaid, plataforma internacional que compartilha sequenciamento genômico de patógenos, e Johns Hopkins University, nos Estados Unidos.
+
+A inclusão de novos parceiros permitiu o aumento da abrangência geográfica dos relatórios, com a indicação de algumas tendências regionais, e a incorporação de novos patógenos. Atualmente, sete laboratórios parceiros compartilham resultados de exames para patógenos causadores de doenças respiratórias, arboviroses, gastroenterites, exantemas, infecções sexualmente transmissíveis e encefalites/meningites. Com grande capilaridade, eles estão em todos os estados brasileiros, abrangendo mais de 1.400 municípios.
+
+Com os monitoramentos de patógenos, o ITpS e os laboratórios parceiros colaboram com o Brasil no cumprimento de dois Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU). Em um item do ODS 3, de Saúde e Bem-Estar, as nações se comprometem a trabalhar para “reforçar a capacidade de todos os países, particularmente os países em desenvolvimento, para o alerta precoce, a redução de riscos e o gerenciamento de riscos nacionais e globais de saúde” e acabar, até 2030, com “as epidemias de aids, tuberculose, malária e doenças tropicais negligenciadas, e combater a hepatite, doenças transmitidas pela água e outras doenças transmissíveis”. Já um dos itens do ODS 17, de Parcerias e Meios de Implementação, fala em "incentivar e promover parcerias públicas, público-privadas e com a sociedade civil eficazes, a partir da experiência das estratégias de mobilização de recursos dessas parcerias".
+
+Todos os monitoramentos estão disponíveis no [site do ITpS](https://www.itps.org.br).\
+Para mais informações, entre em contato: [comunicacao\@itps.org.br](mailto:comunicacao@itps.org.br)
+
+::: footer-image
+<img src="img/Medtrop.jpg" alt="Rodapé"/>
+:::
+::::
