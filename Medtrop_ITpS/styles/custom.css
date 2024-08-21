@@ -1,23 +1,51 @@
-/* CSS para o cabeçalho */
+/* Definir a largura máxima da página e centralizar */
+.container {
+    max-width: 800px; /* Largura máxima da página */
+    margin: 0 auto;   /* Centralizar a página */
+    padding: 20px;    /* Espaçamento interno para dar respiro */
+    background-color: #fff; /* Cor de fundo da área de conteúdo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil ao redor */
+}
+
+/* Centralizar e ajustar o tamanho da imagem do cabeçalho */
 .header-image {
-  width: 100%;
-  text-align: center;
-  margin-bottom: 20px;
+    text-align: center; /* Centralizar a imagem */
 }
 
 .header-image img {
-  width: 5cm;
-  height: 3cm;
+    width: 5cm;   /* Largura fixa de 4cm */
+    height: auto;  /* Altura fixa de 4cm */
+    margin-bottom: 20px;
 }
 
-/* CSS para o rodapé */
+/* Centralizar e ajustar o tamanho da imagem do rodapé */
 .footer-image {
-  width: 100%;
-  text-align: center;
-  margin-top: 20px;
+    text-align: center; /* Centralizar a imagem */
 }
 
 .footer-image img {
-  width: 4cm;
-  height: 4cm;
+    width: 4cm;   /* Largura fixa de 4cm */
+    height: 4cm;  /* Altura fixa de 4cm */
+    margin-top: 20px;
+}
+
+/* Justificar o texto para melhorar a legibilidade */
+.justify-text {
+    text-align: justify;
+}
+
+/* Centralizar figuras e legendas */
+.figure-center {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.figure-center img {
+    max-width: 100%;
+    height: auto;
+}
+
+.figure-center p {
+    font-style: italic;
+    text-align: center;
 }
