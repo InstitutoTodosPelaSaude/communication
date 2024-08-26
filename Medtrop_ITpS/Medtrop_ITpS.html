@@ -20,6 +20,58 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* Definir a largura máxima da página e centralizar */
+.container {
+    max-width: 800px; /* Largura máxima da página */
+    margin: 0 auto;   /* Centralizar a página */
+    padding: 20px;    /* Espaçamento interno para dar respiro */
+    background-color: #fff; /* Cor de fundo da área de conteúdo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil ao redor */
+}
+
+/* Centralizar e ajustar o tamanho da imagem do cabeçalho */
+.header-image {
+    text-align: center; /* Centralizar a imagem */
+}
+
+.header-image img {
+    width: 5cm;   /* Largura fixa de 4cm */
+    height: auto;  /* Altura fixa de 4cm */
+    margin-bottom: 20px;
+}
+
+/* Centralizar e ajustar o tamanho da imagem do rodapé */
+.footer-image {
+    text-align: center; /* Centralizar a imagem */
+}
+
+.footer-image img {
+    width: 4cm;   /* Largura fixa de 4cm */
+    height: 4cm;  /* Altura fixa de 4cm */
+    margin-top: 20px;
+}
+
+/* Justificar o texto para melhorar a legibilidade */
+.justify-text {
+    text-align: justify;
+}
+
+/* Centralizar figuras e legendas */
+.figure-center {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.figure-center img {
+    max-width: 100%;
+    height: auto;
+}
+
+.figure-center p {
+    font-style: italic;
+    text-align: center;
+}
+
 </style>
 
 
@@ -49,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="container">
 <div class="header-image">
-<p><img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/ITpS.jpeg?raw=true" alt="Cabeçalho"></p>
+<p><img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/ITpS.jpg?raw=true" alt="Cabeçalho"></p>
 </div>
 <section id="instituto-todos-pela-saúde-e-laboratórios-parceiros-realizam-monitoramento-em-tempo-oportuno-de-vírus-e-outros-agentes-causadores-de-doenças-no-brasil" class="level3" style="text-align: center;">
 <h3 class="anchored" data-anchor-id="instituto-todos-pela-saúde-e-laboratórios-parceiros-realizam-monitoramento-em-tempo-oportuno-de-vírus-e-outros-agentes-causadores-de-doenças-no-brasil">Instituto Todos pela Saúde e laboratórios parceiros realizam monitoramento em tempo oportuno de vírus e outros agentes causadores de doenças no Brasil</h3>
@@ -77,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Todos os monitoramentos estão disponíveis no <a href="https://www.itps.org.br">site do ITpS</a>.<br>
 Para mais informações, entre em contato: <a href="mailto:comunicacao@itps.org.br">comunicacao@itps.org.br</a></p>
 <div class="footer-image">
-<p><img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/Medtrop_removebg.jpg?raw=true" alt="Rodapé"></p>
+<p><img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/Medtrop_semfundo.png?raw=true" alt="Rodapé"></p>
 </div>
 </div>
 </div>

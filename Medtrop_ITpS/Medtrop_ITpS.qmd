@@ -4,16 +4,16 @@ css: styles/custom.css
 editor: visual
 ---
 
-<div class="container">
-
+::::::: container
 ::: header-image
-<img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/ITpS.jpeg?raw=true" alt="Cabeçalho"/>
+<img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/ITpS.jpg?raw=true" alt="Cabeçalho"/>
 :::
 
 ::: {style="text-align: center;"}
 ### Instituto Todos pela Saúde e laboratórios parceiros realizam monitoramento em tempo oportuno de vírus e outros agentes causadores de doenças no Brasil
 
 <!-- Imagem dentro do texto, centralizada e com tamanho reduzido mantendo proporções -->
+
 ![Imagem gerada por IA](https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/IA.png?raw=trueg){width="15cm"}
 :::
 
@@ -38,7 +38,9 @@ Todos os monitoramentos estão disponíveis no [site do ITpS](https://www.itps.o
 Para mais informações, entre em contato: [comunicacao\@itps.org.br](mailto:comunicacao@itps.org.br)
 
 ::: footer-image
-<img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/Medtrop_removebg.jpg?raw=true" alt="Rodapé"/>
+<img src="https://github.com/InstitutoTodosPelaSaude/communication/blob/main/Medtrop_ITpS/img/Medtrop_semfundo.png?raw=true" alt="Rodapé"/>
 :::
 
 </div>
+::::
+:::::::
